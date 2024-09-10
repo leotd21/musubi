@@ -43,3 +43,8 @@ a literature survey is musubi
 [sdv](https://dai.lids.mit.edu/wp-content/uploads/2018/03/SDV.pdf)
 
 [gretel](https://github.com/gretelai/gretel-synthetics)
+
+
+### Workshop
+https://sites.google.com/view/icaif-synthetic-2022/program?authuser=0
+https://ai-finance.org/
